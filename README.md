@@ -65,25 +65,10 @@ Open a new terminal:
 
 streamlit run streamlit.py
 Visit frontend: http://localhost:8501
-✨ Features
-
-✅ User Registration with email, password, name, address, and Aadhar
-✅ Passwords are hashed using bcrypt
-✅ Secure Login with validation
-✅ Streamlit UI for ease of use
-✅ PostgreSQL as backend DB
-✅ API testing via Swagger UI
-
-
-
-
----
 
 ---
 
 ## 🧪 API Testing with Postman
-
-You can also test the FastAPI backend using **Postman**.
 
 ### ✅ Steps:
 
@@ -120,22 +105,14 @@ If everything works fine, you’ll get:
 
 ---
 
-## 🧩 Where to Place This in `README.md`?
+✨ Features
 
-Here’s the suggested final structure:
-
-README.md
-├── Project Overview ✅
-├── Tech Stack ✅
-├── Project Structure ✅
-├── Setup Instructions ✅
-├── PostgreSQL Setup ✅
-├── Run Instructions ✅
-├── ✅ NEW → Postman Testing Section ✅
-├── Features ✅
-├── UI Screenshots ✅
-├── Future Improvements ✅
-├── License ✅
+✅ User Registration with email, password, name, address, and Aadhar
+✅ Passwords are hashed using bcrypt
+✅ Secure Login with validation
+✅ Streamlit UI for ease of use
+✅ PostgreSQL as backend DB
+✅ API testing via Swagger UI
 
 ---
 Pull requests are welcome! Feel free to open issues and suggest features or improvements.
