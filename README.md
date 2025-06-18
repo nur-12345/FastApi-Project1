@@ -91,11 +91,4 @@ Connect with me on LinkedIn 🌐 https://www.linkedin.com/in/nupur-shivani-150b9
 
 ---
 
-<img width="1470" alt="Screenshot 2025-06-18 at 7 12 42 PM" src="https://github.com/user-attachments/assets/35e08ed6-edfa-4659-8382-c063c27c084e" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 12 30 PM" src="https://github.com/user-attachments/assets/8586b887-ea5f-46aa-8aba-78fa0328fe99" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 11 22 PM" src="https://github.com/user-attachments/assets/745d3261-4945-4aa6-976f-362ea74a614c" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 11 19 PM" src="https://github.com/user-attachments/assets/addf23dc-ffec-465e-8eca-cf331692b1ab" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 09 04 PM" src="https://github.com/user-attachments/assets/63fb3ef0-0612-4dd1-8354-0f6a549c5980" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 08 59 PM" src="https://github.com/user-attachments/assets/c70a540a-bee8-4b4e-88a8-384912d78884" />
-<img width="1470" alt="Screenshot 2025-06-18 at 7 08 50 PM" src="https://github.com/user-attachments/assets/41a6c5de-6e7d-4dce-a1b7-9ef6b8885e62" />
 
